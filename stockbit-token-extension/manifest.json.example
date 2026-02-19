@@ -8,7 +8,7 @@
   ],
   "host_permissions": [
     "https://*.stockbit.com/*",
-    "https://YOUR_APP_DOMAIN.netlify.app/*"
+    "https://6996644d3e813008f0e49aba--tangerine-mermaid-c363ae.netlify.app/*"
   ],
   "background": {
     "service_worker": "background.js"
